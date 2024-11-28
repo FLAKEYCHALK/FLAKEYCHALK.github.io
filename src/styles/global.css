@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+
+    --light-mode-background: 236 239 244;     
+    --light-mode-foreground: 46 52 64;        
+    --light-mode-foreground-muted: 67 76 94;  
+    --dark-mode-background: 40 42 54;         
+    --dark-mode-foreground: 248 248 242;     
+    --dark-mode-foreground-muted: 98 114 164;
+  }
+
+  body {
+    background-color: light-dark(
+      rgb(var(--light-mode-background)),
+      rgb(var(--dark-mode-background))
+    );
+  }
+}

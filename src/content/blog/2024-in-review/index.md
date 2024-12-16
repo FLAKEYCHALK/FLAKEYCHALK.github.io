@@ -1,7 +1,7 @@
 ---
 title: 2024 in Review
 description: Good bye 2024
-publicationDate: 2024-11-28
+publicationDate: 2024-12-16
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ My biggest issue is **eating habits**. I rely heavily on canned food, which isnâ
 
 Most of my reading was technical this year, but I snuck in some fiction too:
 - [The Programmers Brain](https://www.manning.com/books/the-programmers-brain) by Felienne Hermans
-- [Cybersecurity Career Guide](https://www.manning.com/books/cybersecurity-career-guide)by Alyssa Miller
+- [Cybersecurity Career Guide](https://www.manning.com/books/cybersecurity-career-guide) by Alyssa Miller
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) by Malcolm McDonals
 - [The Cuckoo's Egg ](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787) by Cliff Stoll (Best read of the year!)
 - [Days at the Morisaki Bookshop](https://www.amazon.com/Days-at-Morisaki-Bookshop-Novel/dp/0063278677?s=books&sr=1-1) by Satoshi Yagisawa
